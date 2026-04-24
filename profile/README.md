@@ -5,5 +5,7 @@ Nous sommes une équipe soudée de développeurs.euses. Nous avons initié ce pr
 ## Nos domaines
 
 - Développement Web et Web mobile
-- Virtualisation
+- Développenent en C
+- Administration Système 
+- Virtualisation Type-1/Type-2 (Proxmox VE/VMware Workstation)
 - Développement de script (Shell, Batch, AppleScript)
