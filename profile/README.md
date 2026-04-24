@@ -5,3 +5,5 @@ Nous sommes une équipe soudée de développeurs.euses. Nous avons initié ce pr
 ## Nos domaines
 
 - Développement Web et Web mobile
+- Virtualisation
+- Développement de script (Shell, Batch, AppleScript)
