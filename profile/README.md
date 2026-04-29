@@ -9,3 +9,7 @@ Nous sommes une équipe soudée de développeurs.euses. Nous avons initié ce pr
 - Administration Système 
 - Virtualisation Type-1/Type-2 (Proxmox VE/VMware Workstation)
 - Développement de script (Shell, Batch, AppleScript)
+- Modding Nintendo 3DS
+- Jailbreak et downgrade d'iDevice
+- Systèmes d'exploitation
+- Environnement Docker
